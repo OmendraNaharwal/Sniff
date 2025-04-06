@@ -5,7 +5,7 @@ import Component9 from "./Components/Component9";
 import Component10 from "./Components/Component10";
 
 import Component16 from "./preComponent/component16";
-import Testimonials from "./preComponent/testominals";
+import TestimonialSlider from "./preComponent/testominals";
 import Component15 from "./preComponent/component15";
 import Component14 from "./preComponent/component14";
 import Component6 from "./preComponent/component6";
