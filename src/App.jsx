@@ -11,7 +11,7 @@ import { useState } from 'react'
 
 function App() {
   return (
- 
+    <>
       <Component7 />
       <Component8 />
       <Component9 />
