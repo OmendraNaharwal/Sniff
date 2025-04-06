@@ -1,17 +1,23 @@
+
+import Component7 from "./Components/Component7";
+import Component8 from "./Components/Component8";
+import Component9 from "./Components/Component9";
+import Component10 from "./Components/Component10";
+
+
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 
 
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
-    <>
-
-    <div>Hello Team! </div>
+ 
+      <Component7 />
+      <Component8 />
+      <Component9 />
+      <Component10 />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
