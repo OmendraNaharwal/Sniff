@@ -4,7 +4,7 @@ import doctorSvg from '../assets/doctorWithDog.svg'
 const Component14 = () => {
   return (
     <div  className='relative' >
-      <img src={doctorSvg} alt="doctorsvg" className='h-[500px] w-full bg-no-repeat bg-center bg-contain'  />
+      <img src={doctorSvg} alt="doctorsvg" className=' w-full bg-no-repeat bg-center bg-contain'  />
     </div>
   )
 }
