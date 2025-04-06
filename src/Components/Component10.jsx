@@ -1,4 +1,5 @@
 import mobile from "../assets/mobile.svg";
+
 function Component10() {
     return (
         <div className="flex flex-col lg:flex-row justify-between mt-10 items-center">
